@@ -1,0 +1,105 @@
+﻿@model List<BasketItemVM>
+@{
+    decimal total = 0;
+}
+
+<div class="header-cart" id="miniCart">
+    <div class="cart-btn">
+
+        <a asp-controller="basket" asp-action="index">
+            <i class="icon ion-bag"></i>
+            <span class="text">Cart :</span>
+
+            @foreach (var item in Model)
+            {
+                total += item.SubTotal;
+            }
+
+            @if (Model.Count == 0)
+            {
+                <span class="total">Empty</span>
+
+            }
+            else
+            {
+                <span class="total">$@total</span>
+
+            }
+
+
+            <span class="count">@Model.Count</span>
+
+        </a>
+    </div>
+
+    <div class="mini-cart">
+        <ul id="cus-basket" class="cart-items">
+
+            @foreach (BasketItemVM item in Model)
+            {
+                <li>
+                    <div class="single-cart-item d-flex">
+                        <div class="cart-item-thumb">
+                            <a asp-controller="shop" asp-action="detail" asp-route-id="@item.Id">
+                                <img src="~/assets/images/@item.Image"
+                                     alt="product" />
+                            </a>
+                            <span class="product-quantity">@item.Count x</span>
+                        </div>
+                        <div class="cart-item-content media-body">
+                            <h5 class="product-name">
+                                <a asp-controller="shop" asp-action="detail" asp-route-id="@item.Id">@item.Name</a>
+                            </h5>
+                            Subtotal:
+                            <span class="product-price"> €@item.Price x @item.Count</span>
+                            <a asp-controller="basket" asp-action="RemoveBasketItemFromSideBasket" asp-route-id="@item.Id" class="product-close">
+                                <i class="fal fa-times"></i>
+                            </a>
+                        </div>
+                    </div>
+                </li>
+            }
+
+        </ul>
+        @if (Model.Count != 0)
+        {
+            <div class="price_content">
+
+                <div class="cart-total price_inline">
+                    <span class="label">Products Total:</span>
+                    <span class="value">€@total</span>
+                </div>
+
+            </div>
+        }
+        else
+        {
+            <div class="price_content">
+
+                <div class="cart-total price_inline">
+                    <div>
+                        <span>Your cart is empty.</span>
+                    </div>
+
+                    <div>
+                        <a asp-controller="shop" asp-action="index">
+                            <span>Shop Now!</span>
+                        </a>
+                    </div>
+
+
+                </div>
+
+            </div>
+        }
+
+
+        <!-- price content -->
+
+        <div class="checkout text-center">
+            <a asp-controller="basket" asp-action="checkout" class="main-btn">Checkout</a>
+        </div>
+
+    </div>
+    <!-- mini cart -->
+</div>

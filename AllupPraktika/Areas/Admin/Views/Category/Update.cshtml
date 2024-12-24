@@ -1,0 +1,34 @@
+﻿@model UpdateCategoryVM
+
+<div class="card-body">
+    <h4 class="card-title">Update Category</h4>
+
+    <form class="forms-sample" method="post" enctype="multipart/form-data">
+
+
+        <div class="form-group">
+            <img style="width:150px" src="~/assets/images/@Model.Image" />
+            <input asp-for="Image" class="form-control" type="hidden">
+        </div>
+
+        <div class="form-group">
+            <label for="Photo">Image</label>
+            <input asp-for="Photo" class="form-control" placeholder="Photo" accept="image/*">
+            <span asp-validation-for="Photo" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Name">Name</label>
+            <input asp-for="Name" class="form-control" placeholder="Name" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+
+        <button type="submit" class="btn btn-primary mr-2">
+            Update
+        </button>
+
+        <a asp-action="index" class="btn btn-light">Cancel</a>
+
+    </form>
+</div>

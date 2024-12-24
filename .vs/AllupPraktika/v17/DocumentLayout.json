@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\viewmodels\\shopvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\viewmodels\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\viewmodels\\getproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\viewmodels\\getcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\utilities\\enums\\esorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\utilities\\enums\\esorttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|c:\\users\\nicha\\onedrive\\desktop\\codeacademy\\projects\\mvc\\alluppraktika\\alluppraktika\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0791ACEF-0F1B-40F2-B82A-CE2FD6A4876B}|AllupPraktika\\AllupPraktika.csproj|solutionrelative:alluppraktika\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Program.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Program.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Program.cs",
+              "RelativeToolTip": "AllupPraktika\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:37:45.293Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "AllupPraktika\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:17:28.814Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Models\\Product.cs",
+              "RelativeToolTip": "AllupPraktika\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:53:31.755Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AllupPraktika\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAwwKEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T14:23:29.946Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "AllupPraktika\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA9wCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:36:14.96Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AllupPraktika\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AllupPraktika\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T06:07:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupPraktika\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "AllupPraktika\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:49:28.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupPraktika\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "AllupPraktika\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:46:34.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "AllupPraktika\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "AllupPraktika\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T05:46:22.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\GetProductVM.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\ViewModels\\GetProductVM.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\GetProductVM.cs",
+              "RelativeToolTip": "AllupPraktika\\ViewModels\\GetProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:43:56.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\GetCategoryVM.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\ViewModels\\GetCategoryVM.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\GetCategoryVM.cs",
+              "RelativeToolTip": "AllupPraktika\\ViewModels\\GetCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:43:51.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopVM.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\ShopVM.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\ViewModels\\ShopVM.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\ViewModels\\ShopVM.cs",
+              "RelativeToolTip": "AllupPraktika\\ViewModels\\ShopVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:42:59.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCategoryAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeToolTip": "AllupPraktika\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:42:48.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "AllupPraktika\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:42:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ESortType.cs",
+              "DocumentMoniker": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Utilities\\Enums\\ESortType.cs",
+              "RelativeDocumentMoniker": "AllupPraktika\\Utilities\\Enums\\ESortType.cs",
+              "ToolTip": "C:\\Users\\nicha\\OneDrive\\Desktop\\CodeAcademy\\Projects\\MVC\\AllupPraktika\\AllupPraktika\\Utilities\\Enums\\ESortType.cs",
+              "RelativeToolTip": "AllupPraktika\\Utilities\\Enums\\ESortType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T05:40:47.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@model CreateSlideVM
+
+<div class="card-body">
+    <h4 class="card-title">Create Slide</h4>
+
+    <form class="forms-sample" method="post" enctype="multipart/form-data">
+
+        <div class="form-group">
+            <label for="exampleInputUsername1">Image</label>
+            <input asp-for="Photo" class="form-control" placeholder="Photo"/>
+            <span asp-validation-for="Photo" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="exampleInputUsername1">Title</label>
+            <input asp-for="Title" class="form-control" placeholder="Title" />
+            <span asp-validation-for="Title" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputUsername1">Subtitle</label>
+            <input asp-for="Subtitle" class="form-control" placeholder="Subtitle" />
+            <span asp-validation-for="Subtitle" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputUsername1">Order</label>
+            <input asp-for="Order" class="form-control" placeholder="Order" />
+            <span asp-validation-for="Order" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputUsername1">Description</label>
+            <input asp-for="Description" class="form-control" placeholder="Description" />
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary mr-2">
+            Submit
+        </button>
+        <a asp-action="index" class="btn btn-light">Cancel</a>
+
+    </form>
+</div>

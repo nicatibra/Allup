@@ -1,0 +1,73 @@
+﻿@model RegisterVM
+
+<section class="register-area pt-10">
+    <div class="container-fluid custom-container">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="login-register-wrapper mt-30">
+                    <h4 class="allup-title">Creat New Account</h4>
+                    <p class="mt-10">Already have an account? <a asp-controller="account" asp-action="login">Log in instead!</a></p>
+
+                    <form method="post">
+
+                        <div class="text-danger" asp-validation-summary="ModelOnly">
+
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="Name"placeholder="Name">
+                            <span class="text-danger" asp-validation-for="Name"></span>
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="Surname" placeholder="Surname">
+                            <span class="text-danger" asp-validation-for="Surname"></span>
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="UserName" placeholder="Username">
+                            <span class="text-danger" asp-validation-for="UserName"></span>
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="Email" placeholder="Email">
+                            <span class="text-danger" asp-validation-for="Email"></span>
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="Password" placeholder="Password">
+                            <span class="text-danger" asp-validation-for="Password"></span>
+                        </div>
+
+                        <div class="single-form">
+                            <input asp-for="ConfirmPassword" placeholder="Confirm Password">
+                            <span class="text-danger" asp-validation-for="ConfirmPassword"></span>
+                        </div>
+
+
+                        <div class="custom-checkbox mt-30">
+                            <input type="checkbox" id="account-1">
+                            <label for="account-1"></label>
+                            <p>Receive Offers From Our Partners</p>
+                        </div>
+
+                        <div class="custom-checkbox mt-30">
+                            <input type="checkbox" id="account-2">
+                            <label for="account-2"></label>
+                            <p>Sign Up For Our Newsletter <br> Subscribe To Our Newsletters Now And Stay Up-To-Date With New Collections, The Latest Lookbooks And Exclusive Offers..</p>
+                        </div>
+
+                        <div class="single-form">
+                            <button type="submit" class="main-btn main-btn-2">Register</button>
+                        </div>
+                        
+                        <div class="single-form">
+                            <button class="main-btn main-btn-2"><a asp-controller="home" asp-action="index">Cancel</a></button>
+                        </div>
+                        
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
